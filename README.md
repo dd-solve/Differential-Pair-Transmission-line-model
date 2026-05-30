@@ -39,7 +39,7 @@ ___
 Differential Pair Transmission lines model/</br>
 │── LICENSE</br>
 │── README.md</br>
-│── Differential_TLine_Model.ipynb</br>
+│── Differential_TLine_Model_examples.ipynb</br>
 │── Examples</br>
 │── diff_tline_ltspice.zip</br>
 -    │──diff_tline.asc</br>
@@ -71,7 +71,7 @@ ___
 
 The provided Jupyter notebook:
 
-> `Differential_TLine_Model.ipynb`
+> `Differential_TLine_Model_examples.ipynb`
 
 contains a detailed description of the model formulation and simulation examples illustrating its use in 
 ___
